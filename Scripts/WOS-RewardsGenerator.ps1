@@ -1,6 +1,6 @@
 ﻿$Total = Read-Host "How many to give out?"
 
-$R4s = Get-Random -Minimum 3 -Maximum 6 = Read-Host "How many R4s"
+$R4s = Read-Host "How many R4s"
 
 $R3s = Read-Host "How many R3s"
 
